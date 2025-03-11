@@ -1,0 +1,290 @@
+*{
+    margin: 0;
+    padding: 0;
+    background-color: rgb(212, 212, 212);
+}
+
+.title {
+    font-size: 30px;
+    margin: 0 auto;
+    width: 700px;
+    text-align: center;
+    color: rgb(22, 22, 22);
+    background-color: rgb(8, 2, 92);
+    padding: 15px;
+    border-radius: 10px;
+    margin-bottom: 20px;
+    text-shadow: #0c0c0c50 3px 4px;
+
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+/* bangladesh */
+.main {
+    height: 500px;
+    width: 700px;
+    border: 5px solid black;
+    margin: 0 auto;
+    margin-top: 150px;
+    position: relative;
+    background-color: rgb(0, 136, 18);
+
+}
+
+.one {
+    width: 100px;
+    height: 100px;
+    background-color:  rgb(0, 136, 18);
+    margin: 0 auto;
+ }
+
+.two {
+    width: 100px;
+    height: 100px;
+    background-color:  rgb(0, 136, 18);
+    margin: 0 auto;
+ }
+
+ .three {
+    width: 100px;
+    height: 100px;
+    border-radius: 50%;
+    background-color:  rgb(255, 0, 0);
+    margin: 0 auto;
+ }
+
+ .four {
+    width: 200px;
+    height: 200px;
+    background-color:  rgb(0, 136, 18);
+    margin: 0 auto;
+ }
+ .five {
+    width: 00px;
+    height: 100px;
+    background-color:  rgb(0, 136, 18);
+    margin: 0 auto;
+ }
+ .dandi {
+    height: 800px;
+    width: 20px;
+    background-color: rgb(104, 33, 0);
+    position: absolute;
+    left: 580px;
+   
+
+ }
+ .bottom {
+    height: 34px;
+    width: 69px;
+    background-color: rgb(104, 33, 0);;
+    position: absolute;
+    left: 555px;
+    bottom: -170px;
+    border-radius: 30%;
+ }
+
+ /* denmark */
+
+ .denmain{
+   height: 500px;
+   width: 700px;
+   border: 5px solid black;
+   margin: 0 auto;
+   margin-top: 150px;
+   position: relative;
+   background-color: rgb(241, 0, 0);
+ }
+
+ .den1 {
+   width: 100px;
+   height: 100px;
+   background-color:  rgb(255, 255, 255);
+   margin: 0 auto;
+}
+
+.den2 {
+   width: 100px;
+   height: 100px;
+   background-color:  rgb(255, 255, 255);
+   margin: 0 auto;
+}
+
+.den3 {
+   width: 700px;
+   height: 100px;
+   background-color:  rgb(255, 255, 255);
+   margin: 0 auto;
+}
+
+.den4 {
+   width: 100px;
+   height: 100px;
+   background-color:  rgb(255, 255, 255);
+   margin: 0 auto;
+}
+.den5 {
+   width: 100px;
+   height: 100px;
+   background-color:  rgb(255, 255, 255);
+   margin: 0 auto;
+}
+.bottom2 {
+   height: 34px;
+   width: 69px;
+   background-color: rgb(104, 33, 0);;
+   position: absolute;
+   left: 555px;
+   border-radius: 30%;
+   bottom: -1423px;
+}
+/* Poland */
+
+.polmain{
+   height: 500px;
+   width: 700px;
+   border: 5px solid black;
+   margin: 0 auto;
+   margin-top: 150px;
+   position: relative;
+
+ }
+
+ .pol1 {
+   width: 700px;
+   height: 100px;
+   background-color:  rgb(255, 0, 0);
+   margin: 0 auto;
+}
+
+.pol2 {
+   width: 700px;
+   height: 100px;
+   background-color:  rgb(255, 0, 0);
+   margin: 0 auto;
+}
+
+.pol3 {
+   width: 700px;
+   height: 100px;
+   background-color:  rgb(255, 255, 255);
+   margin: 0 auto;
+}
+
+.pol4 {
+   width: 700px;
+   height: 100px;
+   background-color:  rgb(255, 255, 255);
+   margin: 0 auto;
+}
+.pol5 {
+   width: 700px;
+   height: 100px;
+   background-color:  rgb(255, 255, 255);
+   margin: 0 auto;
+}
+.bottom3 {
+   height: 34px;
+   width: 69px;
+   background-color: rgb(104, 33, 0);;
+   position: absolute;
+   left: 552px;
+   bottom: -2692px;
+   border-radius: 30%;
+}
+/* Italy */
+
+.itmain{
+   height: 500px;
+   width: 700px;
+   border: 5px solid black;
+   margin: 0 auto;
+   margin-top: 150px;
+   position: relative;
+
+ }
+ .it1 {
+   width: 200px;
+   height: 500px;
+   background-color:  #009246;
+
+}
+
+.it2 {
+   width: 200px;
+   height: 500px;
+   background-color:  #CE2B37;
+   margin-left: 500px;
+   position: absolute;
+   top: 0px;
+   
+}
+
+.it3 {
+   width: 300px;
+   height: 500px;
+   background-color:  rgb(255, 255, 255);
+   position: absolute;
+   left: 200px;
+   top: 0;
+   
+   
+}
+.bottom4 {
+   height: 34px;
+   width: 69px;
+   background-color: rgb(104, 33, 0);;
+   position: absolute;
+   left: 552px;
+   bottom: -3962px;
+   border-radius: 30%;
+}
+
+
+/* saudia arabia */
+
+.saudmain{
+   height: 500px;
+   width: 700px;
+   border: 5px solid black;
+   margin: 0 auto;
+   margin-top: 150px;
+   position: relative;
+
+
+ }
+
+ .ger1 {
+   width: 700px;
+   height: 175px;
+   background-color:  #000000;
+
+}
+
+.ger2 {
+   width: 700px;
+   height: 200px;
+   background-color:  #CE2B37;
+   position: absolute;
+   top: 300px;
+   
+}
+
+.ger3 {
+   width: 700px;
+   height: 150px;
+   background-color:  rgb(255, 255, 255);
+   position: absolute;
+   top: 180px;
+   
+   
+}
+.bottom5 {
+   height: 34px;
+   width: 69px;
+   background-color: rgb(104, 33, 0);;
+   position: absolute;
+   left: 552px;
+   bottom: -5241px;
+   border-radius: 30%;
+}
